@@ -5,10 +5,16 @@
     { "id": 3, "client": "Gestion Legalis" }
   ],
   "items": [
-    { "id": 1, "body": "some comment", "slipId": 1 },
-    { "id": 2, "body": "some comment", "slipId": 1 }
+    { "id": 1, "name": "Laptop", quantity: 1, "slipId": 1, "shipped": 0, "signature": null },
+    { "id": 2, "name": "Cartouche", quantity: 1, "slipId": 1, "shipped": 0, "signature": null },
+    { "id": 3, "name": "Moniteur", quantity: 1, "slipId": 2, "shipped": 0, "signature": null },
+    { "id": 4, "name": "Mémoire", quantity: 1, "slipId": 2, "shipped": 0, "signature": null },
+    { "id": 5, "name": "Serveur", quantity: 1, "slipId": 2, "shipped": 0, "signature": null },
+    { "id": 6, "name": "Disque", quantity: 3, "slipId": 3, "shipped": 0, "signature": null },
+    { "id": 7, "name": "Téléphone", quantity: 2, "slipId": 3, "shipped": 0, "signature": null },
+    { "id": 8, "name": "Ordinateur", quantity: 1, "slipId": 2, "shipped": 0, "signature": null }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "fzicat"
   }
 }
